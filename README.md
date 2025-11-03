@@ -1,6 +1,6 @@
 # Lewis-Tac-Azure
 
-**Developer:** Abhirekha Kathimmasani  
+**Developer:** Abhirekha Thimmasani  
 **Institution:** Lewis University  
 **Course:** Software Architecture & Design  
 **Project:** React Tic-Tac-Toe with CI/CD Deployment
